@@ -1,5 +1,3 @@
-# README (1)
-
 # 🇺🇸 English
 
 ## Flappy Bird - Advanced PyQt6 Edition
